@@ -34,3 +34,9 @@ h1 {
     text-align:center;
     transition: all 0.2s; 
 }
+
+.australiaImage {
+    width: 100%;
+    height: auto;
+   
+}
