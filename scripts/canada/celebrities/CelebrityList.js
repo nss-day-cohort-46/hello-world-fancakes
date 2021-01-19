@@ -11,10 +11,10 @@ export const celebrityList = () => {
 
     contentElement.innerHTML += `
     <section class="contentContainer__listOfCitizens">
-    <h2>Famous People</h2>
-     <ul>  
-     ${celebrityHTMLRepresentations}
-    </ul>
+        <h2>Famous People</h2>
+            <ul>  
+                ${celebrityHTMLRepresentations}
+            </ul>
     </section>
     `
 }
