@@ -1,7 +1,13 @@
 const landmarks = [
-    {name: "Mount Fuji"},
-    {name: "Tokyo Skytree"},
-    {name: "Senso-Ji"}
+    {
+        name: "Mount Fuji"
+    },
+    {
+        name: "Tokyo Skytree"
+    },
+    {
+        name: "Senso-Ji"
+    }
 ]
 
 
