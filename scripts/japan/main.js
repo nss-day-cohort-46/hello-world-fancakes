@@ -4,6 +4,7 @@ import { useLandmarks } from './landmarks/LandmarkDataProvider.js'
 import { CelebrityList } from "./celebrities/CelebrityList.js"
 
 
+
 CelebrityList()
 
 
