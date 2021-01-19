@@ -1,7 +1,7 @@
 import { useCelebrities } from './celebrities/CelebrityDataProvider.js'
 import { useCities } from './cities/CityDataProvider.js'
 import { useLandmarks } from './landmarks/LandmarkDataProvider.js'
-import { CelebrityList } from "./japan/celebrities/CelebrityList"
+import { CelebrityList } from "./celebrities/CelebrityList.js"
 
 
 CelebrityList()
