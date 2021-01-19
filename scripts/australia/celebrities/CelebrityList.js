@@ -11,7 +11,8 @@ export const celebrityList = () => {
     }
     
     return element.innerHTML += `
-        <section>
+        <section class="contentContainer__listOfCitizens">
+            <h2>Famous People</h2>
             <ul>
                 ${htmlRep}
             </ul>
@@ -19,3 +20,12 @@ export const celebrityList = () => {
     ` 
 
 }
+
+{/* <section class="contentContainer__listOfCitizens">
+            <h2>Famous People</h2>
+            <ul>
+                <li>Steve Irwin</li>
+                <li>Rebel Wilson</li>
+                <li>Hugh Jackman</li>
+            </ul>
+        </section> */}
