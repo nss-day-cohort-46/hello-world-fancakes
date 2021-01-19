@@ -1,10 +1,10 @@
 export const Celebrity = (celebrity) => {
-    return`
+    return `
     
 
         <li>${celebrity.name}</li>
         
- 
+
 
     `
 }
