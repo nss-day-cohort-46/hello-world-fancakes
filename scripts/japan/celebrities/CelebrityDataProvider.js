@@ -1,7 +1,13 @@
 const celebrities = [
-    {name: "Akira Toriyama"},
-    {name: "Shigeru Miyamoto"},
-    {name: "Yuto Horigome"}
+    {
+        name: "Akira Toriyama"
+    },
+    {
+        name: "Shigeru Miyamoto"
+    },
+    {
+        name: "Yuto Horigome"
+    }
 ]
 
 
