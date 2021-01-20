@@ -1,5 +1,6 @@
 
 import {useCeleb} from './celebrities/CelebrityDataProvider.js'
+import { CelebrityList } from './celebrities/CelebrityList.js'
 import {useCity} from './cities/CityDataProvider.js'
 import { CityList } from './cities/CityList.js'
 import {useLandmark} from './landmarks/LandmarkDataProvider.js'
@@ -16,3 +17,4 @@ const alltheLandmark = useLandmark()
 
 CityList ()
 LandmarkList ()
+CelebrityList ()
