@@ -1,7 +1,13 @@
 const cities = [
-    {name: "Tokyo"},
-    {name: "Kyoto"},
-    {name: "Osaka"}
+    {
+        name: "Tokyo"
+    },
+    {
+        name: "Kyoto"
+    },
+    {
+        name: "Osaka"
+    }
 ]
 
 
