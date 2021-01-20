@@ -6,9 +6,10 @@ import { CityList } from './cities/CityList.js'
 import { LandmarkList } from './landmarks/LandmarkList.js'
 
 
+CityList()
 LandmarkList()
 CelebrityList()
-CityList()
+
 
 const allTheCelebrities = useCelebrities()
 

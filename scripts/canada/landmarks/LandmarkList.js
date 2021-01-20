@@ -10,7 +10,7 @@ export const landmarkList = () => {
     }
     contentElement.innerHTML += `
     <section class="contentContainer__listOfCitizens">
-        <h2>Famous People</h2>
+        <h2>Landmarks to Visit</h2>
         <ul>  
             ${landmarkHTMLRepresentation}
         </ul>
