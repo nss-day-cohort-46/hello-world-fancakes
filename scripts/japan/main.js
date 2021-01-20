@@ -1,12 +1,7 @@
-import { useCelebrities } from './celebrities/CelebrityDataProvider.js'
-import { useCities } from './cities/CityDataProvider.js'
-import { useLandmarks } from './landmarks/LandmarkDataProvider.js'
 import { CelebrityList } from './celebrities/CelebrityList.js'
 import { CityList } from './cities/CityList.js'
 import { LandmarkList } from './landmarks/LandmarkList.js'
-
-import { useNavData } from './nav/NavDataProvider.js'
-import { NavList } from './nav/NavList'
+import { NavList } from './nav/NavList.js'
 
 NavList()
 CityList()
