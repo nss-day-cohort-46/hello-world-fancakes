@@ -9,10 +9,8 @@ export const headerList = () => {
         headerHTMLRepresentation += Header(header)
     }
     contentElement.innerHTML += `
-    <nav> 
-        <ul class="nav-bar">
+    <nav class="nav-bar"> 
             ${headerHTMLRepresentation}
-        </ul>
     </nav>
     `
 }
