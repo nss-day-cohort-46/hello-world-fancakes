@@ -13,7 +13,7 @@ for (const city of cities) {
     cityHTMLRepresentations += City(city)
 }
 
-console.log("CityList",cityHTMLRepresentations)
+// console.log("CityList",cityHTMLRepresentations)
 
 contentElement.innerHTML += `
 <section class="contentContainer__listOfCities">
